@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an enthusiastic B.Tech student pursuing Electronics and Communication Engineering with specialisation in Artificial Intelligence(ECE-AI) at the Indira Gandhi Delhi Technical University for Women (IGDTUW). My passion lies in leveraging AI to innovate and solve complex problems in the field of AI, programming and ML.
+I'm an enthusiastic B.Tech student pursuing Computer Science and Engineering with specialisation in Artificial Intelligence(CSE-AI) at Indira Gandhi Delhi Technical University for Women (IGDTUW). My passion lies in leveraging AI to innovate and solve complex problems in the field of AI, programming and ML.
 
 ## 🌱 Currently Exploring
 
